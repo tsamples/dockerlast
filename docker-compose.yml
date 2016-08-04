@@ -1,7 +1,7 @@
 version: '2'
 services:
   web:
-    image: tsamples23/dockerhubdemo23
+    image: tsamples23/dockercloud-hello-world
     ports:
       - 8080
     networks:
